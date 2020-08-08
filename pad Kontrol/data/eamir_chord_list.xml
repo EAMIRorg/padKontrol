@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "eamir_chord_list[4]">
+	<slot number = "1">
+		<patcher name = "EAMIR_padKontrol_blinker">
+			<pattr name = "eamir_padKontrol_blinkies" value = "0" />
+			<pattr name = "eamir_padKontrol_blinkies[2]" value = "2" />
+		</patcher>
+		<patcher name = "EAMIR_chord_generation">
+			<pattr name = "eamir_mol_triad[9]" value = "-1" />
+		</patcher>
+		<patcher name = "EAMIR_MIDI_out[1]">
+			<pattr name = "eamir_MIDI" value = "0" />
+			<pattr name = "eamir_MIDI[2]" value = "0" />
+			<pattr name = "eamir_MIDI[3]" value = "1" />
+			<pattr name = "eamir_MIDI[4]" value = "49" />
+			<pattr name = "eamir_MIDI[5]" value = "36" />
+			<pattr name = "eamir_MIDI[6]" value = "49" />
+			<pattr name = "eamr_MIDI" value = "48" />
+		</patcher>
+		<patcher name = "EAMIR_XY_padKontrol_interface">
+			<pattr name = "eamir_padKontrol_XY" value = "0" />
+			<pattr name = "eamir_padKontrol_XY[2]" value = "0" />
+			<pattr name = "eamir_padKontrol_XY[3]" value = "0" />
+			<pattr name = "eamir_padKontrol_XY[4]" value = "5" />
+			<pattr name = "eamir_padKontrol_XY[5]" value = "0" />
+			<pattr name = "eamir_padKontrol_XY[6]" value = "2" />
+		</patcher>
+		<patcher name = "EAMIR_MIDI_out[2]">
+			<pattr name = "eamir_MIDI" value = "0" />
+			<pattr name = "eamir_MIDI[2]" value = "0" />
+			<pattr name = "eamir_MIDI[3]" value = "2" />
+			<pattr name = "eamir_MIDI[4]" value = "81" />
+			<pattr name = "eamir_MIDI[5]" value = "36" />
+			<pattr name = "eamir_MIDI[6]" value = "81" />
+			<pattr name = "eamr_MIDI" value = "48" />
+		</patcher>
+		<patcher name = "EAMIR_padKontrol_interface">
+			<pattr name = "eamir_padKontrol_pads" value = "0" />
+			<pattr name = "eamir_padKontrol_pads[2]" value = "1" />
+			<pattr name = "eamir_padKontrol_pads[3]" value = "53" />
+			<pattr name = "eamir_padKontrol_pads[4]" value = "84" />
+			<pattr name = "eamir_padKontrol_pads[5]" value = "2" />
+		</patcher>
+		<patcher name = "patcher">
+			<patcher name = "EAMIR_chord_list">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "0" />
+				<pattr name = "eamir_chord_list[3]" value = "1" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[1]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "1" />
+				<pattr name = "eamir_chord_list[3]" value = "2" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[3]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "2" />
+				<pattr name = "eamir_chord_list[3]" value = "3" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[2]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "3" />
+				<pattr name = "eamir_chord_list[3]" value = "4" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[7]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "4" />
+				<pattr name = "eamir_chord_list[3]" value = "5" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[6]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "5" />
+				<pattr name = "eamir_chord_list[3]" value = "6" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[5]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "6" />
+				<pattr name = "eamir_chord_list[3]" value = "7" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[4]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "7" />
+				<pattr name = "eamir_chord_list[3]" value = "8" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[15]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "88" />
+				<pattr name = "eamir_chord_list[3]" value = "V/1" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[14]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "89" />
+				<pattr name = "eamir_chord_list[3]" value = "V/2" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[13]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "90" />
+				<pattr name = "eamir_chord_list[3]" value = "V/3" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[12]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "91" />
+				<pattr name = "eamir_chord_list[3]" value = "V/4" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[11]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "92" />
+				<pattr name = "eamir_chord_list[3]" value = "V/5" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[10]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "93" />
+				<pattr name = "eamir_chord_list[3]" value = "V/6" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[9]">
+				<pattr name = "eamir_chord_list" value = "0" />
+				<pattr name = "eamir_chord_list[2]" value = "94" />
+				<pattr name = "eamir_chord_list[3]" value = "V/7" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[1]">
+			<patcher name = "EAMIR_chord_voicing">
+				<pattr name = "eamir_chord_voicing[2]" value = "-1" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<patcher name = "EAMIR_padKontrol_blinker">
+			<pattr name = "eamir_padKontrol_blinkies" value = "" />
+			<pattr name = "eamir_padKontrol_blinkies[2]" value = "" />
+		</patcher>
+		<patcher name = "EAMIR_chord_generation">
+			<pattr name = "eamir_mol_triad[9]" value = "" />
+		</patcher>
+		<patcher name = "EAMIR_MIDI_out[1]">
+			<pattr name = "eamir_MIDI" value = "" />
+			<pattr name = "eamir_MIDI[2]" value = "" />
+			<pattr name = "eamir_MIDI[3]" value = "" />
+			<pattr name = "eamir_MIDI[4]" value = "" />
+			<pattr name = "eamir_MIDI[5]" value = "" />
+			<pattr name = "eamir_MIDI[6]" value = "" />
+			<pattr name = "eamr_MIDI" value = "" />
+		</patcher>
+		<patcher name = "EAMIR_XY_padKontrol_interface">
+			<pattr name = "eamir_padKontrol_XY" value = "" />
+			<pattr name = "eamir_padKontrol_XY[2]" value = "" />
+			<pattr name = "eamir_padKontrol_XY[3]" value = "" />
+			<pattr name = "eamir_padKontrol_XY[4]" value = "" />
+			<pattr name = "eamir_padKontrol_XY[5]" value = "" />
+			<pattr name = "eamir_padKontrol_XY[6]" value = "" />
+		</patcher>
+		<patcher name = "EAMIR_MIDI_out[2]">
+			<pattr name = "eamir_MIDI" value = "" />
+			<pattr name = "eamir_MIDI[2]" value = "" />
+			<pattr name = "eamir_MIDI[3]" value = "" />
+			<pattr name = "eamir_MIDI[4]" value = "" />
+			<pattr name = "eamir_MIDI[5]" value = "" />
+			<pattr name = "eamir_MIDI[6]" value = "" />
+			<pattr name = "eamr_MIDI" value = "" />
+		</patcher>
+		<patcher name = "EAMIR_padKontrol_interface">
+			<pattr name = "eamir_padKontrol_pads" value = "" />
+			<pattr name = "eamir_padKontrol_pads[2]" value = "" />
+			<pattr name = "eamir_padKontrol_pads[3]" value = "" />
+			<pattr name = "eamir_padKontrol_pads[4]" value = "" />
+			<pattr name = "eamir_padKontrol_pads[5]" value = "" />
+		</patcher>
+		<patcher name = "patcher">
+			<patcher name = "EAMIR_chord_list">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[1]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[3]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[2]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[7]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[6]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[5]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[4]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[15]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[14]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[13]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[12]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[11]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[10]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+			<patcher name = "EAMIR_chord_list[9]">
+				<pattr name = "eamir_chord_list" value = "" />
+				<pattr name = "eamir_chord_list[2]" value = "" />
+				<pattr name = "eamir_chord_list[3]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[1]">
+			<patcher name = "EAMIR_chord_voicing">
+				<pattr name = "eamir_chord_voicing[2]" value = "" />
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+
